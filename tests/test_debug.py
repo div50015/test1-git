@@ -8,3 +8,5 @@ def test_d():
     c += 10
     pass
     pass
+    pass
+    pass
